@@ -187,9 +187,9 @@
     },
     
     "background": {
-        "blur": 0.5,
-        "url": "https://github.com/user-attachments/assets/02504e29-770f-4359-9e2e-2989d3aff980",
-        "alpha": 0.7
+        "blur": 0,
+        "url": "https://i.imgur.com/VG6CNGz.jpeg",
+        "alpha": 0.8
     },
         "color": "#EA42CD"
 }
